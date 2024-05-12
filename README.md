@@ -2,8 +2,8 @@
 
 ### Prerequisites
 - Python 3.8 or higher
-- Google Cloud CLI
-- Google Cloud Account with Vertex AI enabled
+- Google Cloud CLI (https://cloud.google.com/sdk/docs/install#deb)
+- Google Cloud Account with Vertex AI enabled (
 
 ### Installation
 
