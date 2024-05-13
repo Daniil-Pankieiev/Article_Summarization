@@ -42,6 +42,8 @@ pip install -r backend/requirements.txt
  uvicorn backend.api.main:app --reload --host 0.0.0.0 --port 8000
 ```
 You can go to backend/main.py replace with your React frontend URL in the CORS settings.
+
+And go to backend/settings.py and replace with your Google Cloud Project ID in the GOOGLE_CLOUD_PROJECT_ID setting.
 5. Run the frontend:
 ```bash
  cd frontend

@@ -1,4 +1,4 @@
-PROJECT_NAME = "utility-subset-417017"
+PROJECT_NAME = "Your project id"
 # LOCATION = "us-central1"
 LOCATION = "europe-west3"
 
